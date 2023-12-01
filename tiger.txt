@@ -1,6 +1,8 @@
 team : Tigers
 
-manager : JeongSeop
+
+manager : GyuMin
+
 
 coach : Grace
 
