@@ -1,0 +1,9 @@
+team : Tigers
+
+manager : Donga
+
+member :
+- JinHo
+- InHyeok
+- Seop
+- George
