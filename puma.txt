@@ -1,6 +1,6 @@
 team : Pumas
 
-manager : Seop
+manager : Jeong
 
 member :
 - JinHo
