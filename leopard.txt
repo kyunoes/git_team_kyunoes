@@ -1,0 +1,6 @@
+team : Leopards
+
+manager : HyeonSeo
+
+member :
+- JinHo
