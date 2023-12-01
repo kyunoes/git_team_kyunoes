@@ -1,0 +1,7 @@
+team : Cheetas
+
+manager : Seop
+
+member :
+- JinHo
+- HyeonSeo
