@@ -2,6 +2,8 @@ team : Leopards
 
 manager : HyeonSeo
 
+coach : Oscar
+
 member :
 - JinHo
 - Olivia

@@ -1,0 +1,6 @@
+team : Pumas
+
+manager : Jude
+
+member :
+- JinHo
